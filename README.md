@@ -1,36 +1,45 @@
-# synent-task2-DataVisualization-prince
+Iris Dataset - Data Visualization
+Internship Project
+Objective
 
-## Overview
-This repository contains a data visualization project for the Synent Task 2 assignment.
+The objective of this project is to visualize patterns and relationships in the Iris dataset using different types of charts and graphs.
 
-## Description
-Add a description of your project here.
+Dataset Information
+Dataset: Iris Dataset
+Source: Kaggle Iris Dataset
 
-## Getting Started
+The dataset contains flower measurements such as:
 
-### Prerequisites
-- List any prerequisites or dependencies here
+Sepal Length
+Sepal Width
+Petal Length
+Petal Width
+Species
 
-### Installation
-1. Clone the repository
-2. Install dependencies
-3. Add setup instructions here
+Tasks Performed:
 
-## Usage
-Add usage instructions and examples here.
+Created Visualizations:
 
-## Project Structure
-```
-├── README.md
-├── [Add your project structure here]
-└── ...
-```
+Bar Chart
+Histogram
+Scatter Plot
 
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request.
+Feature Comparison:
+Compared different flower features to identify patterns and relationships between species.
 
-## License
-Add license information here.
+Examples:
+Sepal Length vs Petal Length
+Species-wise feature comparison
+Distribution of flower measurements
+Tools & Libraries Used
+Python
+Pandas
+Matplotlib
+Seaborn
+Google Colab
 
-## Author
-princevp2006-source
+Output:
+Created clear and meaningful visualizations to better understand the Iris dataset and identify patterns among different flower species.
+
+Conclusion:
+This project helped in understanding data visualization techniques and how graphical analysis can reveal important insights from datasets.
